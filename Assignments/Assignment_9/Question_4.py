@@ -4,7 +4,11 @@ def Cube(Num):
 
 def main():
     Result = 0
-    Result = Cube(5)
+
+    Number = int(input("Enter the Number : "))
+
+    Result = Cube(Number)
+
     print("The Cube is :",Result)
 
 if __name__ == "__main__":

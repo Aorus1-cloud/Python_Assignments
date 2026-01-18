@@ -7,7 +7,11 @@ def Divisible(Num):
 
 def main():
     Result = False
-    Result = Divisible(30)
+
+    Number = int(input("Enter the Number : "))
+
+    Result = Divisible(Number)
+
     if Result == True :
         print("It is Divisible By Both.")
     else :

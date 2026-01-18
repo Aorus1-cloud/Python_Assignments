@@ -3,8 +3,12 @@ def Sqr(Num):
 
 def main():
     Result = 0 
-    Result = Sqr(5)
-    print("The Square is :`",Result)
+
+    Number= int(input("Enter the Number : "))
+
+    Result = Sqr(Number)
+
+    print("The Square is : ",Result)
 
 if __name__ == "__main__":
     main()
