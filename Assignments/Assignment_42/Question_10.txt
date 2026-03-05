@@ -1,0 +1,3 @@
+10. Can KNN be used for regression?
+-> Yes KNN can be used for regression because we can generate the neighbours and then predict the
+ values which lies in the region of the neighbours.

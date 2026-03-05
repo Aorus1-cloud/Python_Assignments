@@ -1,0 +1,5 @@
+7. Why does linear regression minimize squared error?
+-> During the calculation of the linear regression line we use the squared values so that the deviation is 
+   not zero therefore the line is plotted on squared values so to find the true error we try to minimize the
+   mean squared error to tune the model and get the provided output from it.And too reduce large errors more
+   than the smaller ones cause they are the ones which truly reduce the error of model.

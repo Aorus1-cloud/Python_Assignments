@@ -1,0 +1,5 @@
+    4. Why is KNN called a lazy learner?
+->  KNN is called lazy learner because it does not do anything at the training and everything is done 
+    at testing therefore it is called lazy learner.It just store training data and during testing it 
+    evaluates output on the basis of input data.
+    

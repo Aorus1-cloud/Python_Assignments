@@ -1,0 +1,4 @@
+6. What happens if K is too large?
+-> If the K value is too large then the output will be biased towards the members who's count is more in
+    that region and the output will be incorrect therefore it is a good practice to use a decent value which
+    is not too large or too small.

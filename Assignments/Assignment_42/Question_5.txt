@@ -1,0 +1,5 @@
+5. What happens if K is too small?
+-> If K value is too small then the output will be in favour of the labels who are the nearest to it
+    and the voting result will be biased towards the label who are near more.It is good in some cases 
+    and also not that much good in some cases as if the data point is a outlier and it lies in the 
+    other class's region then the output will be incorrect.
