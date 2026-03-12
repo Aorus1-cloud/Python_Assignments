@@ -1,0 +1,10 @@
+10. Explain why coefficients are important in regression models. Also explain how coef cients help in
+understanding the impact of input features on predictions.
+-> Coefficients are important as they help us to know which feature is going to impact the output 
+   of the model.For eg, from the above questions,
+
+    the linear equation becomes as,
+
+        Marks = 5.00000000e+00 * Study_Hours + 4.21300016e-16 * Sleep_Hours + 45
+
+    so by this we can say that the predicted output depends on the Study_Hours more than the Sleep_Hours.
