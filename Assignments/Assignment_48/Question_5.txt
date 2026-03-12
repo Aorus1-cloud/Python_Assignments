@@ -1,0 +1,13 @@
+5. Explain the concept of a classification report in machine learning. Why is it used and what type of models
+require it?
+-> classification report gives the performance of a classification model like DecisionTreeClassifier & KNN 
+   it gives you the,
+
+   1) Precision
+   2) Recall
+   3) F1-score
+   4) Support 
+
+   it is used to show the score of the model how it performed in the testing.
+
+

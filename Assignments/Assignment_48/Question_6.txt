@@ -1,0 +1,13 @@
+6. In a classification report, explain the meaning of the following metrics:
+Precision
+Recall
+F1 Score
+Support
+Accuracy
+
+-> 
+1) Precision means out of all the output predicted as positive how many of them where truely positive.
+2) Recall means out of all positive how many were correctly predicted by the model
+3) F1 Score gives the balance between Precision and Recall.
+4) It gives the count of classes samples present in the dataset 
+5) Accuracy means out of all predicted output how many were correct
